@@ -1,0 +1,120 @@
+.container{
+    border-radius: 10px;
+    background-color: #708090;
+    align-content: center;
+    display: flex;
+    flex-grow: 1;
+    height: 170px;
+    
+}
+.container1{
+    flex-direction: column;
+    margin-top: 20px;
+    background-color: #708090;
+    align-content: center;
+    display: flex;
+    height: 130px;
+    
+}
+.container2{
+    flex-direction: row;
+    margin-top: 20px;
+    background-color: #708090;
+    align-content: center;
+    display: flex;
+}
+
+.item1{ 
+    border: 5px solid white;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+.name{
+    font-size: 30px;
+    color: white;
+    margin-left: 100px;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+.skil{
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button1{
+    margin-left: 100px;
+}
+.button2{
+    margin-left: 10px;
+}
+.third{
+    width: 100px;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    border-color: #3498db;
+  color: #fff;
+  box-shadow: 0 0 50px 40px #3498db inset, 0 0 0 0 #3498db;
+  transition: all 150ms ease-in-out;
+}
+
+.containertwo{
+    border: 1px solid black;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    height: 170px;
+ 
+    justify-content: flex-start;
+    
+}
+.about{
+    font-size: 35PX;
+    margin-left: 35PX;
+    flex-direction: column;
+    background-color: white;
+    display: flex;
+    height: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.detail{
+    margin-top: 5px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-style: bold;
+    font-family: "Bookman Old Style", serif;
+}
+
+.detail2{
+    margin-left: 200px;
+    margin-top: 70px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-style: bold;
+    font-family: "Bookman Old Style", serif;
+}
+
+.container3{
+    border: 1px solid black;
+    
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    height: 320px;
+ 
+    justify-content: flex-start;
+    
+}
+.detail3{
+    margin-left: 110px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-style: bold;
+    font-family: "Bookman Old Style", serif;
+}
